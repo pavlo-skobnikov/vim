@@ -1,1 +1,3 @@
 # vim
+
+Simple, yet effective.
